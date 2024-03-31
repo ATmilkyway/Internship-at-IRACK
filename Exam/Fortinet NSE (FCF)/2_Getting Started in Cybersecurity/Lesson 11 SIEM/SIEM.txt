@@ -1,0 +1,15 @@
+## Security Information and Event Management (SIEM) 📊🔒
+
+SIEM is a tool that collects and analyzes security logs from various sources within an organization's network infrastructure, such as firewalls, servers, and endpoints. It helps identify potential security threats by correlating and analyzing events, logs, and alerts. SIEM provides real-time monitoring, threat detection, incident response, and compliance reporting.
+
+## SIE (Security Information and Event Management) 🔍🔒
+
+SIE, which stands for Security Information and Event Management, is a tool that collects and analyzes security logs to identify threats and suspicious activities. It acts as a "security detective" by monitoring and correlating security events from different sources to provide insights into potential security incidents.
+
+## NOC (Network Operations Center) 🚦🔧
+
+NOC is a team responsible for monitoring and managing the performance and availability of an organization's network infrastructure. They proactively monitor network traffic, troubleshoot issues, and ensure network operations run smoothly. Think of them as the "network traffic cop" ensuring smooth network operations.
+
+## SOC (Security Operations Center) 🚨🛡️
+
+SOC is a team that focuses on protecting an organization's network from cyberattacks and responding to security incidents. They use a combination of tools, processes, and expertise to detect, analyze, and respond to security threats. Think of them as the "cybersecurity SWAT team" responsible for defending the network against attacks.
