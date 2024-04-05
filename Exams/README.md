@@ -1,1 +1,0 @@
-Hello! 👋 This directory is a treasure trove of knowledge and achievements. It houses all the courses I have diligently completed and the well-earned certificates that testify to my expertise. 📚🎓 Let's continue on our quest for knowledge and explore new horizons together! 🌟
